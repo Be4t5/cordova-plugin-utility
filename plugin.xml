@@ -24,7 +24,6 @@
     </config-file>
 
     <source-file src="src/android/Utility.java" target-dir="src/com/utility/"/>
-	 <framework src="com.android.support:appcompat-v7:+" />
 	 <framework src="pl.droidsonroids:casty:1.0.8" />
   </platform>
 
