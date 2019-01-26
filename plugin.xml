@@ -23,7 +23,7 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/Stats.java" target-dir="src/com/utility/"/>
+    <source-file src="src/android/Utility.java" target-dir="src/com/utility/"/>
 	 <framework src="pl.droidsonroids:casty:1.0.8" />
   </platform>
 
